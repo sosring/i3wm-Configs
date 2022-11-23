@@ -1,4 +1,3 @@
 # i3wm-Configs
 
-Inline-style: 
-![Preview](https://github.com/sosring/README.md/i3-Configs/preview/i3.png "Logo Title Text 1")
+![i3](https://user-images.githubusercontent.com/108966935/203511951-29585777-c93c-4bca-bdf2-fd5de6a6e732.png)
